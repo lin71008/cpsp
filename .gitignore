@@ -1,0 +1,10 @@
+# Ignore Python Template Files
+__pycache__/
+*.class
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VScode
+.vscode/
